@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend"
+    "\\backend",
+    "\\backend\\routes",
+    "\\src",
+    "\\src\\components"
   ],
-  "SelectedNode": "\\backend\\server.js",
+  "SelectedNode": "\\backend\\routes\\users.js",
   "PreviewInSolutionExplorer": false
 }

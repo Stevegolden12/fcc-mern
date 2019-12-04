@@ -1,3 +1,14 @@
+# fcc-mern
+This is demostration of a exercise tracker using MERN (MongoDB, Express, React, and Node).
+
+## Installation
+
+Download the files [here](https://github.com/Stevegolden12/fcc-mern)
+
+1. Open CL in the backend folder and type: 'nodemon server.js'
+
+2. Open another CL and in the root folder type: 'npm start' the following works with root folder
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +77,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## acknowledgement
+
+Thank you to freeCodeCamp for making this demostration.
